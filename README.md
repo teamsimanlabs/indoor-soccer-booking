@@ -5,12 +5,12 @@ This directory contains the complete application for managing an indoor soccer f
 # Purpose
 The Indoor Soccer Field Management Application is designed to streamline the operations of an indoor soccer facility. It provides features such as:
 
-Reservation Management: Allow customers to book field time slots online, view available times, and receive confirmations.
-Scheduling: Manage and organize the schedule for different soccer fields, ensuring no overlaps and efficient use of the facility.
-Customer Management: Keep track of customer information, including contact details, booking history, and preferences.
-Payment Processing: Integrate with payment gateways to handle online payments for reservations.
-Notifications: Send email or SMS notifications to customers about their bookings, cancellations, or any changes in the schedule.
-User Roles: Differentiate between admin and regular user roles, providing appropriate access and permissions to each.
+1. Reservation Management: Allow customers to book field time slots online, view available times, and receive confirmations.
+2. Scheduling: Manage and organize the schedule for different soccer fields, ensuring no overlaps and efficient use of the facility.
+3. Customer Management: Keep track of customer information, including contact details, booking history, and preferences.
+4. Payment Processing: Integrate with payment gateways to handle online payments for reservations.
+5. Notifications: Send email or SMS notifications to customers about their bookings, cancellations, or any changes in the schedule.
+6. User Roles: Differentiate between admin and regular user roles, providing appropriate access and permissions to each.
 
 # Project Setup
 To set up the project on your local machine, follow these steps:
@@ -34,19 +34,19 @@ Build Tools: Maven, Vite
 Security: JWT for authentication, Spring Security
 
 # Features
-Responsive Design: The application is designed to be responsive and works well on both desktop and mobile devices.
-Real-time Updates: The application provides real-time updates for reservations and scheduling.
-User-friendly Interface: A clean and intuitive interface that makes it easy for users to navigate and use the application.
-Scalability: The application is designed to be scalable, allowing it to handle a large number of users and reservations.
+1. Responsive Design: The application is designed to be responsive and works well on both desktop and mobile devices.
+2. Real-time Updates: The application provides real-time updates for reservations and scheduling.
+3. User-friendly Interface: A clean and intuitive interface that makes it easy for users to navigate and use the application.
+4. Scalability: The application is designed to be scalable, allowing it to handle a large number of users and reservations.
 
-Contributing
+# Contributing
 If you would like to contribute to this project, please follow these steps:
 
-# Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add new feature').
+5. Push to the branch (git push origin feature-branch).
+6. Create a new Pull Request.
 
 Happy coding!
